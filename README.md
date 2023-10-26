@@ -5,12 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+--># New_world
+
+🙋‍♂️ Hi, I am @Hermitong
+
+- 🧗 An Infinite game novice player
+- 📡 Cosmic signal reception enthusiast.
+- 🕺 Lindy Hopper
+- 🎵 Post-rock
+- 👨‍🎓 Left-leaning liberal.
+
+This is about a path of discovery in the code world
+
+
+
+
